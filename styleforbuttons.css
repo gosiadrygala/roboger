@@ -1,0 +1,29 @@
+/* Set a style for all buttons */
+button {
+  border-radius: 25px;
+  background-color: #ffffff;
+  color: black;
+  padding: 5px 20px;
+  margin: 8px 0;
+  border: 1px solid black;
+  cursor: pointer;
+  width: 40%;
+  font-size: 28px;
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+.button1 {
+  border-radius: 25px;
+  background-color: #ffffff;
+  color: black;
+  padding: 5px 20px;
+  margin: 8px 0;
+  border: 1px solid black;
+  cursor: pointer;
+  width: 20%;
+  font-size: 28px;
+  font-style: normal;
+  font-family: "Times New Roman", Times, serif;
+}
